@@ -2,7 +2,7 @@ body {
     display: grid;
     background-color: #212121;
     color: #FFF;
-    grid-template-rows: 310px 250px 100px;
+    grid-template-rows: 310px 230px 50px;
 }
 
 h1{
@@ -69,4 +69,9 @@ button{
     button{
         margin-left: 156px;
     }
+}
+
+#message{
+    text-align: center;
+    font-size: 20px;
 }
